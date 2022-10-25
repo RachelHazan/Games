@@ -1,0 +1,268 @@
+body{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+.tab{
+ margin-left: 20%;
+}
+input{
+    position: fixed;
+}
+div{
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+td{
+    width: 80px;
+    height: 80px;
+    border-radius: 8%;
+    border: rgb(99, 14, 99) 1px solid;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#A1{
+    background-image: url(./pictures/whirlpool.jpg)
+}
+#A2{
+    background-image: url(./pictures/הצלה\ ישראל.jpg)
+}
+#A3{
+    background-image: url(./pictures/ביתן.png)
+}
+#A4{
+    background-image: url(./pictures/איקאה.jpg)
+}
+#A5{
+    background-image: url(./pictures/אל\ על.png)
+}
+#A6{
+    background-image: url(./pictures/אלקטרה.jpg)
+}
+#A7{
+    background-image: url(./pictures/בוש.jpg)
+}
+#A8{
+    background-image: url(./pictures/ביתן.png)
+}
+#A9{
+    background-image: url(./pictures/בני\ ברק.jpg)
+}
+#A10{
+    background-image: url(./pictures/בנק\ פאגי.png)
+}
+#A11{
+    background-image: url(./pictures/בראון.jpg)
+}
+#A12{
+    background-image: url(./pictures/דואר\ ישראל.png)
+}
+#A13{
+    background-image: url(./pictures/דל\ מחשבים.png)
+}
+#A14{
+    background-image: url(./pictures/דלונגי.jpg)
+}
+#A15{
+    background-image: url(./pictures/הצלה.jpg)
+}
+#A16{
+    background-image: url(./pictures/הצלה\ ישראל.jpg)
+}
+#A17{
+    background-image: url(./pictures/ויירפול.jpg)
+}
+#A18{
+    background-image: url(./pictures/חסלט.png)
+}
+#A19{
+    background-image: url(./pictures/חברת\ חשמל.png)
+}
+#A20{
+    background-image: url(./pictures/טושיבה.JPG)
+}
+#A21{
+    background-image: url(./pictures/טמבור.jpg)
+}
+#A22{
+    background-image: url(./pictures/טרה.png)
+}
+#A23{
+    background-image: url(./pictures/יד\ אליעזר.png)
+}
+#A24{
+    background-image: url(./pictures/יד\ שרה.jpg)
+}
+#A25{
+ 
+   background-image: url(./pictures/ירושלים.png)
+}
+#A26{
+    background-image: url(./pictures/כיבוי\ אש.jpg)
+}
+#A27{
+    background-image: url(./pictures/כיבוי\ להצלה.png)
+}
+#A28{
+    background-image: url(./pictures/כרמית.PNG)
+}
+#A29{
+    background-image: url(./pictures/כרמית\ 1.PNG)
+}
+#A30{
+    background-image: url(./pictures/לאומית.jpg)
+}
+#A31{
+    background-image: url(./pictures/לוגו\ אשדוד\ \(1\).jpg)
+}
+#A32{
+    background-image: url(./pictures/לוגו\ כללית.jpg)
+}
+#A33{
+    background-image: url(./pictures/לוגו\ מדינת\ ישראל.png)
+}
+#A34{
+    background-image: url(./pictures/לוגו\ עיריית\ קרית\ גת.jpg)
+}
+#A35{
+    background-image: url(./pictures/לניאדו.jpg)
+}
+#A36{
+    background-image: url(./pictures/מאוחדת.jpg)
+}
+#A37{
+    background-image: url(./pictures/מגד.png)
+}
+#A38{
+    background-image: url(./pictures/מדא\ מגן\ דוד\ אדום.png)
+}
+#A39{
+    background-image: url(./pictures/מדינת\ ישראל.png)
+}
+#A40{
+    background-image: url(./pictures/מטרופולין.jpg)
+}
+#A41{
+    background-image: url(./pictures/מטרנה.png)
+}
+#A42{
+    background-image: url(./pictures/מילומור.png)
+}
+#A43{
+    background-image: url(./pictures/מיצובישי.png)
+}
+#A44{
+    background-image: url(./pictures/מכבי.jpg)
+}
+#A45{
+    background-image: url(./pictures/מעיני\ הישועה.png)
+}
+#A46{
+    background-image: url(./pictures/מקורות.png)
+}
+#A47{
+    background-image: url(./pictures/משטרה.png)
+}
+#A48{
+    background-image: url(./pictures/נמל\ חיפה.gif)
+}
+#A49{
+    background-image: url(./pictures/נתיבות.png)
+}
+#A50{
+    background-image: url(./pictures/סוני.JPG)
+}
+#A51{
+    background-image: url(./pictures/סופרבוס.jpg)
+}
+#A52{
+    background-image: url(./pictures/סמינר.jpg)
+}
+#A53{
+    background-image: url(./pictures/סמל\ עיריית\ תל\ אביב.jpg)
+}
+#A54{
+    background-image: url(./pictures/עזר\ מציון1.png)
+}
+#A55{
+    background-image: url(./pictures/עזרה\ ואחוה.jpg)
+}
+#A56{
+    background-image: url(./pictures/עילית.png)
+}
+#A57{
+    background-image: url(./pictures/עיריית\ בית\ שמש.jpg)
+}
+#A58{
+    background-image: url(./pictures/עיריית\ בני\ ברק.png)
+}
+#A59{
+    background-image: url(./pictures/עיריית\ חיפה.png)
+}
+#A60{
+    background-image: url(./pictures/עיריית\ חצור.png)
+}
+#A61{
+    background-image: url(./pictures/עיריית\ מודיעין\ עילית.png)
+}
+#A62{
+    background-image: url(./pictures/עיריית\ פתח\ תקוה.png)
+}
+#A63{
+    background-image: url(./pictures/עיריית\ צפת.png)
+}
+#A64{
+    background-image: url(./pictures/עיריית\ קרית\ גת.png)
+}
+#A65{
+    background-image: url(./pictures/עיריית\ תל\ אביב\ יפו.png)
+}
+#A66{
+    background-image: url(./pictures/עלית.png)
+}
+#A67{
+    background-image: url(./pictures/עץ\ הזית.png)
+}
+#A68{
+    background-image: url(./pictures/פתח\ תקוה.jpg)
+}
+#A69{
+    background-image: url(./pictures/קודקוד.png)
+}
+#A70{
+    background-image: url(./pictures/קווים\ עילית.png)
+}
+#A71{
+    background-image: url(./pictures/קנווד.jpg)
+}
+#A72{
+    background-image: url(./pictures/קריסטל.jpg)
+}
+#A73{
+    background-image: url(./pictures/שמן.png)
+}
+#A74{
+    background-image: url(./pictures/תכלס.PNG)
+}
+#A75{
+    background-image: url(./pictures/תנובה.png)
+}
+#A76{
+    background-image: url(./pictures/אאג.jpg)
+}
+#A77{
+    background-image: url(./pictures/אוסם.png)
+}
+#A78{
+    background-image: url(./pictures/בנק\ פאגי.png)
+}
+#A79{
+    background-image: url(./pictures/דל\ מחשבים.png)
+}
+#A80{
+    background-image: url(./pictures/טושיבה.JPG)
+}
+#A81{
+    background-image: url(./pictures/חסלט.png)
+} 
